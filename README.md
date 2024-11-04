@@ -26,3 +26,7 @@ In the initial data preparation phase, we performed the following tasks:
 ### Exploratory Data Analysis
 
 EDA involves exploring the sales data to answer key questions like;
+
+Using pivot tables to summarize total sales by product, region, and month.
+
+Using Excel formulas to calculate metrics such as average sales per product and total revenue by region.
