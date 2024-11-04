@@ -27,6 +27,28 @@ In the initial data preparation phase, we performed the following tasks:
 
 EDA involves exploring the sales data to answer key questions like;
 
-Using pivot tables to summarize total sales by product, region, and month.
+- Using pivot tables to summarize total sales by product, region, and month.
 
-Using Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+- Using Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+  
+- Writing queries to extract key insights like
+
+- retrieving the total sales for each product category.
+
+- finding the number of sales transactions in each region.
+
+- finding the highest-selling product by total sales value.
+
+- calculating total revenue per product.
+
+- calculate monthly sales totals for the current year.
+
+- find the top 5 customers by total purchase amount.
+
+- calculate the percentage of total sales contributed by each region.
+
+- identify products with no sales in the last quarter.
+  
+- lastly creating a Power BI Dashboard.
+
+
