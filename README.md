@@ -21,3 +21,8 @@ In the initial data preparation phase, we performed the following tasks:
 1. Data Loading and inspection
 2. Data cleaning and formating
 3. Adding new column for Revenue
+
+
+### Exploratory Data Analysis
+
+EDA involves exploring the sales data to answer key questions like;
