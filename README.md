@@ -10,10 +10,10 @@ Sales Data:The primary dataset used for this analysis is the "Capstone_Sales_dat
 
 ### Tools Used
 ---
-- Excel - For Data cleaning[Download here](https://microsoft.com)
-- SQL server - For Data Analysis
+- Microsoft Excel - For Data cleaning[Download here](https://microsoft.com)
+- SQL server - Structured Query Language For querying of data.
 - Power BI - For creating reports and Data visualizations
-
+- Github - for porfolio building
 
 ### Data Cleaning/preparation
 ---
