@@ -123,3 +123,6 @@ The analysis results are summarized as follows;
 2. Shoes had the highest Revenue of 613,380 while socks had the lowest revenue of 180,785.
 3. South had the highest Revenue, with shoes having the hihgest sales.
 4. West had the lowest Revenue with shoes having the lowest sales in that Region.
+5. The product with lowest Total sales was Gloves
+6. South had the highest Regional sales of 44% followed by East with 23% sales
+7. All products had sales in the last quater
