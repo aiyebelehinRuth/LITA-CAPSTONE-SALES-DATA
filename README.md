@@ -134,3 +134,8 @@ Based on our analysis, it is recommended that;
 - Gloves need to be highly sentized, more advertisment should be created to foster its demands
 - More of shoes should be produced in the south with more employees employed to foster more units produced and ease distribution.
 - focus on expanding and promoting products in North and East also.
+  
+### References
+---
+1. Notes from LITA classes
+2. Documenting projects- https://herdataproject
