@@ -6,3 +6,4 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data Sources
 
+Sales Data:The primary dataset used for this analysis is the "Capstone_Sales_data.csv" file, containing detailed information about each sales made by the stores in each Region.
