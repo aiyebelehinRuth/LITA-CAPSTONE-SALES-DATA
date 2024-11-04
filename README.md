@@ -16,6 +16,11 @@
 ---
 This data analysis project aims to provide insights into the sales performance of a Retail store over a period of 2 years. By analyzing various aspects of the sales data we seek to identify trends,make data-driven recommendations and gain a deeper understanding of the stores and products performance.
 
+![PBI Sales pic 2024-11-03 222726](https://github.com/user-attachments/assets/abd20380-2839-42c4-a539-7009aa75aeea)
+
+![excel salesdata 2024-10-30 112454](https://github.com/user-attachments/assets/d40d4b7a-2d84-4bc0-af5c-a65c47edbcf6)
+![excel dashboard pic 2024-11-03 230708](https://github.com/user-attachments/assets/6350ea62-f6ec-4521-8eb6-dbe8450ef830)
+
 ### Data Sources
 ---
 Sales Data:The primary dataset used for this analysis is the "Capstone_Sales_data.csv" file, containing detailed information about each sales made by the stores in each Region.
