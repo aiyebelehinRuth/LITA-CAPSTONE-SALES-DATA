@@ -50,5 +50,11 @@ EDA involves exploring the sales data to answer key questions like;
 - identify products with no sales in the last quarter.
   
 - lastly creating a Power BI Dashboard.
+  
+### Data Analysis
+
+we will have our SQL Queries here;
+
+```SQL
 
 
