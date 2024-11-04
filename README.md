@@ -1,5 +1,17 @@
 # Sales Data for a Retail Store
 ---
+## My Outline
+---
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [References](#references)
+  
 ### Project Overview
 ---
 This data analysis project aims to provide insights into the sales performance of a Retail store over a period of 2 years. By analyzing various aspects of the sales data we seek to identify trends,make data-driven recommendations and gain a deeper understanding of the stores and products performance.
@@ -15,7 +27,7 @@ Sales Data:The primary dataset used for this analysis is the "Capstone_Sales_dat
 - Power BI - For creating reports and Data visualizations
 - Github - for porfolio building
 
-### Data Cleaning/preparation
+### Data Cleaning
 ---
 In the initial data preparation phase, we performed the following tasks:
 1. Data Loading and inspection
@@ -115,7 +127,7 @@ where orderdate>=Dateadd(qq,-1,getdate())
 )
 ```
 
-### Results/findings
+### Results
 ---
 The analysis results are summarized as follows;
 
@@ -137,5 +149,5 @@ Based on our analysis, it is recommended that;
   
 ### References
 ---
-1. Notes from LITA classes
+1. Notes from LITA classes- https://theincubatorhub
 2. Documenting projects- https://herdataproject
