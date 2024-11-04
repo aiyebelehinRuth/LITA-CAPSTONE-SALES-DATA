@@ -145,7 +145,7 @@ The analysis results are summarized as follows;
 7. All products had sales in the last quater.
 
 ### Recommendations
-
+---
 Based on our analysis, it is recommended that;
 - The stores in the South should be focused more on, since it has the highest Revenue. Expansion is highly needed in the south
 - Gloves need to be highly sentized, more advertisment should be created to foster its demands
@@ -157,8 +157,8 @@ Based on our analysis, it is recommended that;
 1. Notes from LITA classes- https://theincubatorhub
 2. Documenting projects- https://herdataproject
    
-Below is the pivot Tables:
-|Heading1|Heading2|Heading3|
-|-------|--------|---------|		
+### Below is the **pivot Tables:**
+|Heading1|Heading2|
+|-------|---------|	
 ![image](https://github.com/user-attachments/assets/03f0a7a5-42f0-492f-a49e-eb79e11c016a)
 
