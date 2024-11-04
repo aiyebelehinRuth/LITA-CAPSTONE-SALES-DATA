@@ -133,3 +133,4 @@ Based on our analysis, it is recommended that;
 - The stores in the South should be focused more on, since it has the highest Revenue. Expansion is highly needed in the south
 - Gloves need to be highly sentized, more advertisment should be created to foster its demands
 - More of shoes should be produced in the south with more employees employed to foster more units produced and ease distribution.
+- focus on expanding and promoting products in North and East also.
