@@ -125,4 +125,11 @@ The analysis results are summarized as follows;
 4. West had the lowest Revenue with shoes having the lowest sales in that Region.
 5. The product with lowest Total sales was Gloves
 6. South had the highest Regional sales of 44% followed by East with 23% sales
-7. All products had sales in the last quater
+7. All products had sales in the last quater.
+
+### Recommendations
+
+Based on our analysis, it is recommended that;
+- The stores in the South should be focused more on, since it has the highest Revenue. Expansion is highly needed in the south
+- Gloves need to be highly sentized, more advertisment should be created to foster its demands
+- More of shoes should be produced in the south with more employees employed to foster more units produced and ease distribution.
