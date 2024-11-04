@@ -154,11 +154,14 @@ Based on our analysis, it is recommended that;
   
 ### References
 ---
-1. Notes from LITA classes- https://theincubatorhub
-2. Documenting projects- https://herdataproject
+-  Notes from LITA classes- https://theincubatorhub
+- Documenting projects- https://herdataproject
    
-### Below is the **pivot Tables:**
-|Heading1|Heading2|
-|-------|---------|	
+### Below are the **pivot Tables:**
+|Heading1|
+|--------|
 ![image](https://github.com/user-attachments/assets/03f0a7a5-42f0-492f-a49e-eb79e11c016a)
 
+💻
+🙏
+💌
